@@ -22,7 +22,7 @@ Start a local PlantUML server in Docker automatically:
 python batch_export.py diagrams.puml --docker
 ```
 
-Output PNG files are saved to the current directory. Use `-o <DIR>` to specify a different output folder.
+Output PNG files are saved to the current directory ./exported . Use `-o <DIR>` to specify a different output folder.
 
 ## Options
 
